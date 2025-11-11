@@ -14,6 +14,7 @@
 
 <details>
 <summary>프로젝트 계획</summary>
+  
 ## AI 코드 생성 시대의 GitHub 오픈소스 진화 분석
 
 > **"ChatGPT와 Vibe Coding 이후, 개발자 생태계는 어떻게 변했는가?"**
